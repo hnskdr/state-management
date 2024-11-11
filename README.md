@@ -15,5 +15,6 @@ Widget "_buildTaskTile" akan menampilkan daftar tugas dalam bentuk List Tile den
 
 4. Apa kegunaan method pada Langkah 11 dan 13 dalam Lifecyle State?
 
-a). initState() digunakan sebagai inisialisasi ScrollController dan menambahkan listener untuk menutup keyboard saat di scroll
+a). initState() digunakan sebagai inisialisasi ScrollController dan menambahkan listener untuk menutup keyboard saat di scroll.
+
 b). dispose() digunakan sebagai membersihkan ScrollController ketika widget sudah tidak lagi digunakan, untuk menghindari memory leak atau kebocoran memori dan menjaga performa aplikasi.
